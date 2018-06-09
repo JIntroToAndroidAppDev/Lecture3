@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lecture3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button">Button</string>
+    <string name="toFragment2">Message fragment 2</string>
+</resources>
